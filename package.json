@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "telegram bot of Zafar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafarwhite/telegram-Bot.HiZafar.git"
+  },
+  "author": "Zafar Qudratov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zafarwhite/telegram-Bot.HiZafar/issues"
+  },
+  "homepage": "https://github.com/zafarwhite/telegram-Bot.HiZafar#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
