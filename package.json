@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zafarwhite/telegram-Bot.HiZafar#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.30.0"
+    "node-telegram-bot-api": "^0.30.0",
+    "lodash": ">=4.17.13"
   }
 }
